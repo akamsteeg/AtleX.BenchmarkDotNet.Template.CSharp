@@ -2,11 +2,15 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>AtleX.BenchmarkDotNet.Template.CSharp</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <description>
-      BenchmarkDotNet template for CSharp.
+      dotnet template for BenchmarkDotNet benchmarks in C#.
     </description>
+	<tags>dotnet template benchmarkdotnet</tags>
     <authors>Alex Kamsteeg (https://atlex.nl/)</authors>
+	<copyright>© Alex Kamsteeg</copyright>
+	<projectUrl>https://github.com/akamsteeg/AtleX.BenchmarkDotNet.Template.CSharp</projectUrl>
+	<licenseUrl>https://github.com/akamsteeg/AtleX.BenchmarkDotNet.Template.CSharp/blob/master/LICENSE</licenseUrl>
     <packageTypes>
       <packageType name="Template" />
     </packageTypes>
