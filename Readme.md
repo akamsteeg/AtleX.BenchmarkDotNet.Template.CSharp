@@ -1,6 +1,6 @@
-# BenchmarkDotNet.Template.CSharp
+# AtleX.BenchmarkDotNet.Template.CSharp
 
-BenchmarkDotNet.Template.CSharp is a template for `dotnet new` to create a BenchmarkDotNet 
+AtleX.BenchmarkDotNet.Template.CSharp is a template for `dotnet new` to create a BenchmarkDotNet 
 console application in C#. It allows you to easily and quickly create a small application 
 to run some benchmarks.
 
@@ -9,7 +9,7 @@ to run some benchmarks.
 On the console, run the following command to install or update the template:
 
 ```powershell
-dotnet new -i BenchmarkDotNet.Template.CSharp
+dotnet new -i AtleX.BenchmarkDotNet.Template.CSharp
 ```
 
 ## Using the template

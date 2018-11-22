@@ -5,5 +5,5 @@
 BenchmarkDotNet.Artifacts/
 
 # Build files if we compile the template
-src/BenchmarkDotNet.Template.CSharp/content/bin
-src/BenchmarkDotNet.Template.CSharp/content/obj
+src/AtleX.BenchmarkDotNet.Template.CSharp/content/bin
+src/AtleX.BenchmarkDotNet.Template.CSharp/content/obj
