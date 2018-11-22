@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Alex Kamsteeg",
+    "classifications": [ "BenchmarkDotNet", "Console" ],
+    "identity": "BenchmarkDotNet.Template.CSharp",
+    "name": "BenchmarkDotNet template for CSharp",
+    "shortName": "bdncsharp",
+	"preferNameDirectory": true,
+	"tags": {
+		"language": "C#"
+	},
+	"sourceName": "BenchmarkDotNet.Template.CSharp"
+}

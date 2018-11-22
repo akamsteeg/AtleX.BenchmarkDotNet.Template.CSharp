@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BenchmarkDotNet.Template.CSharp</id>
+    <version>1.0.0</version>
+    <description>
+      BenchmarkDotNet template for CSharp.
+    </description>
+    <authors>Alex Kamsteeg (https://atlex.nl/)</authors>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+  </metadata>
+</package>

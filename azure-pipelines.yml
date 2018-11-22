@@ -1,0 +1,18 @@
+pool:
+  vmImage: 'VS2017-Win2016'
+
+steps:
+- task: NuGetCommand@2
+  displayName: 'NuGet pack'
+  inputs:
+    command: pack
+    packagesToPack: '**/*.nuspec'
+    packDestination: '$(Build.ArtifactStagingDirectory)'
+
+- task: PublishBuildArtifacts@1
+  displayName: 'Publish Artifact: NuGet packages'
+  inputs:
+    PathtoPublish: '$(build.artifactstagingdirectory)'
+    ArtifactName: 'NuGet packages'
+
+
