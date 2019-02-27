@@ -6,10 +6,10 @@
     <description>
       dotnet template for BenchmarkDotNet benchmarks in C#.
     </description>
-	<PackageReleaseNotes>
+	<releaseNotes>
 1.1.0:
 - [Feature] Upgraded BenchmarkDotNet to v0.11.4
-	</PackageReleaseNotes>
+	</releaseNotes>
 	<tags>dotnet template benchmarkdotnet</tags>
     <authors>Alex Kamsteeg (https://atlex.nl/)</authors>
 	<copyright>© Alex Kamsteeg</copyright>
