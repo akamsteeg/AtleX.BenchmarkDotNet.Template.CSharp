@@ -2,10 +2,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>AtleX.BenchmarkDotNet.Template.CSharp</id>
-    <version>1.0.1</version>
+    <version>1.1.0</version>
     <description>
       dotnet template for BenchmarkDotNet benchmarks in C#.
     </description>
+	<PackageReleaseNotes>
+1.1.0:
+- [Feature] Upgraded BenchmarkDotNet to v0.11.4
+	</PackageReleaseNotes>
 	<tags>dotnet template benchmarkdotnet</tags>
     <authors>Alex Kamsteeg (https://atlex.nl/)</authors>
 	<copyright>© Alex Kamsteeg</copyright>
