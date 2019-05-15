@@ -2,11 +2,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>AtleX.BenchmarkDotNet.Template.CSharp</id>
-    <version>1.2.0</version>
+    <version>1.2.1</version>
     <description>
       dotnet template for BenchmarkDotNet benchmarks in C#.
     </description>
 	<releaseNotes>
+1.2.1: 
+- [Bug] Fixed not being able to run the benchmarks without a solution file (#1)
 1.2.0:
 - [Feature] Upgraded BenchmarkDotNet to v0.11.5
 1.1.0:
